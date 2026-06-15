@@ -1,4 +1,4 @@
-# SQL_101
+# SQL 101
 Welcome to SQL 101. From beginner to advanced, to interview questions, this repository aims to be your complete guide to learning and mastering SQL.
 
 So please, let your journey into SQL database programming begin!
