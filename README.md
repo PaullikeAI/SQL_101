@@ -13,5 +13,7 @@ This workbook covers the basics of querying data with examples for each of the k
 
 This workbook covers counting rows and unique values and also grouping data. Also finding the minimum, maximum, sum and average of columns or groups of data.
 
+<a href="https://github.com/PaullikeAI/SQL_101/blob/main/3.%20Create%2C%20Read%2C%20Update%2C%20Delete%20-%20CREATE%2C%20SELECT%2C%20UPDATE%2C%20DELETE%2C%20NOT%20LIKE%2C%20LIKE%2C%20NOT%20NULL%2C%20NULL%2C%20IS%2C%20INSERT%2C%20DROP%20TABLE.ipynb">3. Create, Read, Update, Delete - CREATE, SELECT, UPDATE, DELETE, NOT LIKE, LIKE, NOT NULL, NULL, IS, INSERT, DROP TABLE</a>
 
+This workbook covers the CRUD database staples. How to create data, read data, update that data and how to delete it.
 
