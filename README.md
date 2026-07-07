@@ -23,7 +23,11 @@ This workbook covers primary keys and why they are important along with a few mo
 
 <a href="https://github.com/PaullikeAI/SQL_101/blob/main/5.%20Joins%20-%20INNER%20JOIN%2C%20LEFT%20JOIN%2C%20LEFT%20OUTER%20JOIN%2C%20UNION%20ALL%2C%20UNION%2C%20AS%2C%20CROSS%20JOIN%2C%20NATURAL%20JOIN.ipynb">5. Joins - INNER JOIN, LEFT JOIN, LEFT OUTER JOIN, UNION ALL, UNION, AS, CROSS JOIN, NATURAL JOIN</a>
 
-This workbook covers the many ways you can join ore or more tables together for a variety of reasons. It also covers the AS keyword and UNION functions for aliases and combined SELECT queries.
+This workbook covers the many ways you can join one or more tables together for a variety of reasons. It also covers the AS keyword and UNION functions for aliases and combined SELECT queries.
+
+<a href="https://github.com/PaullikeAI/SQL_101/blob/main/6.%20Data%20Types%20-%20STRICT%2C%20INT%2C%20TINYINT%2C%20SMALLINT%2C%20REAL%2CFLOAT%2C%20DOUBLE%2C%20TEXT%2C%20CHAR%2C%20VARCHAR%2C%20BOOLEAN%2C%20BIT%2C%20DATE%2C%20TIME%2C%20TIMESTAMP%2C%20BINARY%2C%20VARBINARY%2C%20BLOB%2C%20JSON%2C%20ARRAY%2C%20ENUM%2C%20SERIAL.ipynb">6. Data Types - STRICT, INT, TINYINT, SMALLINT, REAL,FLOAT, DOUBLE, TEXT, CHAR, VARCHAR, BOOLEAN, BIT, DATE, TIME, TIMESTAMP, BINARY, VARBINARY, BLOB, JSON, ARRAY, ENUM, SERIAL</a>
+
+This workbook covers the many data types used in SQL from common ones such as TEXT and INTEGER to more niche ones such as SERIAL and ARRAY.
 
 **Enjoy and please suggest any improvements to the curriculum you can think of.**
 
