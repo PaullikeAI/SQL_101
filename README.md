@@ -29,7 +29,9 @@ This workbook covers the many ways you can join one or more tables together for 
 
 This workbook covers the many data types used in SQL from common ones such as TEXT and INTEGER to more niche ones such as SERIAL and ARRAY.
 
-**Enjoy and please suggest any improvements to the curriculum you can think of.**
+<a href="https://github.com/PaullikeAI/SQL_101/blob/main/7.%20Math%20Functions%20-%20ABS%2C%20ROUND%2C%20RANDOM%2C%20TOTAL%2C%20SQRT%2C%20SQUARE%2C%20CEILING%2C%20FLOOR%2C%20POWER%2C%20EXP%2C%20LOG%2C%20MOD%2C%20COS%2C%20SIN%2C%20TAN%2C%20PI.ipynb">7. Math Functions - ABS, ROUND, RANDOM, TOTAL, SQRT, SQUARE, CEILING, FLOOR, POWER, EXP, LOG, MOD, COS, SIN, TAN, PI</a>
 
-*All words are my own. No LLMs were used to write any of the explantions.*
+This workbook covers the most commonly used math functions, as well as many other useful ones, such as the trigonometry trio (Sin, Cos, Tan), Pi, Exp, Log and more.
+
+**Enjoy and please suggest any improvements to the curriculum you can think of.**
  
