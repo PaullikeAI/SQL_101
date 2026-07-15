@@ -33,5 +33,10 @@ This workbook covers the many data types used in SQL from common ones such as TE
 
 This workbook covers the most commonly used math functions, as well as many other useful ones, such as the trigonometry trio (Sin, Cos, Tan), Pi, Exp, Log and more.
 
+<a href="https://github.com/PaullikeAI/SQL_101/blob/main/8.%20String%20Functions%20-%20CONCAT%2C%20CONCAT_WS%2C%20LENGTH%2C%20CHAR_LENGTH%2C%20LEN%2C%20SUBSTR%2C%20SUBSTRING%2C%20RIGHT%2C%20LEFT%2C%20UPPER%2C%20LOWER%2C%20INITCAP%2C%20TRIM%2C%20LTRIM%2C%20RTRIM%2C%20REPLACE%2C%20INSTR%2C%20CHARINDEX%2C%20POSITION%2C%20LOCATE.ipynb">8. String Functions - CONCAT, CONCAT_WS, LENGTH, CHAR_LENGTH, LEN, SUBSTR, SUBSTRING, RIGHT, LEFT, UPPER, LOWER, INITCAP, TRIM, LTRIM, RTRIM, REPLACE, INSTR, CHARINDEX, POSITION, LOCATE</a>
+
+This workbook covers functions to modify, add, search and measure strings in various ways. Also the use of triple quotations """ """ in writing SQL and the Pandas read_sql function.
+
+
 **Enjoy and please suggest any improvements to the curriculum you can think of.**
  
