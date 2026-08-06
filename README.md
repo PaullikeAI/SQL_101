@@ -37,7 +37,7 @@ This workbook covers the most commonly used math functions, as well as many othe
 
 This workbook covers functions to modify, add, search and measure strings in various ways. Also the use of triple quotations """ """ in writing SQL and the Pandas read_sql function.
 
-<a href="https://github.com/PaullikeAI/SQL_101/blob/main/9.%20Useful%20things%20to%20know%20-%20EXISTS%2C%20HAVING%2C%20LIMIT%2C%20SELECT%20TOP%2C%20FETCH%20FIRST%2C%20CASE%2C%20WHEN%2C%20THEN%2C%20ELSE%2C%20END%20.ipynb">9. Useful things to know - EXISTS, HAVING, LIMIT, SELECT TOP, FETCH FIRST, CASE, WHEN, THEN, ELSE, END/a>
+<a href="https://github.com/PaullikeAI/SQL_101/blob/main/9.%20Useful%20things%20to%20know%20-%20EXISTS%2C%20HAVING%2C%20LIMIT%2C%20SELECT%20TOP%2C%20FETCH%20FIRST%2C%20CASE%2C%20WHEN%2C%20THEN%2C%20ELSE%2C%20END%20.ipynb">9. Useful things to know - EXISTS, HAVING, LIMIT, SELECT TOP, FETCH FIRST, CASE, WHEN, THEN, ELSE, END</a>
 
 This workbook covers some useful functions like Case statements, the Having keyword, which is like a Where clause for Group By results and the exists keyword. Also some SQL best practices.
 
