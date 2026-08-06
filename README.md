@@ -3,7 +3,7 @@ Welcome to SQL 101. From beginner to advanced, to interview questions, this repo
 
 So please, let your journey into SQL database programming begin!
 
-### Sylabus
+### Syllabus
 
 <a href="https://github.com/PaullikeAI/SQL_101/blob/main/1.%20Querying%20Data%20-%20SELECT%2C%20FROM%2C%20PRAGMA%2C%20WHERE%2C%20AND%2C%20ORDER%20BY%2C%20ASC%2C%20DESC.ipynb">1. Querying Data - SELECT, FROM, PRAGMA, WHERE, AND, ORDER BY, ASC, DESC</a>
 
@@ -36,6 +36,10 @@ This workbook covers the most commonly used math functions, as well as many othe
 <a href="https://github.com/PaullikeAI/SQL_101/blob/main/8.%20String%20Functions%20-%20CONCAT%2C%20CONCAT_WS%2C%20LENGTH%2C%20CHAR_LENGTH%2C%20LEN%2C%20SUBSTR%2C%20SUBSTRING%2C%20RIGHT%2C%20LEFT%2C%20UPPER%2C%20LOWER%2C%20INITCAP%2C%20TRIM%2C%20LTRIM%2C%20RTRIM%2C%20REPLACE%2C%20INSTR%2C%20CHARINDEX%2C%20POSITION%2C%20LOCATE.ipynb">8. String Functions - CONCAT, CONCAT_WS, LENGTH, CHAR_LENGTH, LEN, SUBSTR, SUBSTRING, RIGHT, LEFT, UPPER, LOWER, INITCAP, TRIM, LTRIM, RTRIM, REPLACE, INSTR, CHARINDEX, POSITION, LOCATE</a>
 
 This workbook covers functions to modify, add, search and measure strings in various ways. Also the use of triple quotations """ """ in writing SQL and the Pandas read_sql function.
+
+<a href="https://github.com/PaullikeAI/SQL_101/blob/main/9.%20Useful%20things%20to%20know%20-%20EXISTS%2C%20HAVING%2C%20LIMIT%2C%20SELECT%20TOP%2C%20FETCH%20FIRST%2C%20CASE%2C%20WHEN%2C%20THEN%2C%20ELSE%2C%20END%20.ipynb">9. Useful things to know - EXISTS, HAVING, LIMIT, SELECT TOP, FETCH FIRST, CASE, WHEN, THEN, ELSE, END/a>
+
+This workbook covers some useful functions like Case statements, the Having keyword, which is like a Where clause for Group By results and the exists keyword. Also some SQL best practices.
 
 
 **Enjoy and please suggest any improvements to the curriculum you can think of.**
