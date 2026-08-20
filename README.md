@@ -3,7 +3,9 @@ Welcome to SQL 101. From beginner to advanced, to interview questions, this repo
 
 So please, let your journey into SQL database programming begin!
 
-### Syllabus
+## Syllabus
+
+### Beginner
 
 <a href="https://github.com/PaullikeAI/SQL_101/blob/main/1.%20Querying%20Data%20-%20SELECT%2C%20FROM%2C%20PRAGMA%2C%20WHERE%2C%20AND%2C%20ORDER%20BY%2C%20ASC%2C%20DESC.ipynb">1. Querying Data - SELECT, FROM, PRAGMA, WHERE, AND, ORDER BY, ASC, DESC</a>
 
@@ -40,6 +42,18 @@ This workbook covers functions to modify, add, search and measure strings in var
 <a href="https://github.com/PaullikeAI/SQL_101/blob/main/9.%20Useful%20things%20to%20know%20-%20EXISTS%2C%20HAVING%2C%20LIMIT%2C%20SELECT%20TOP%2C%20FETCH%20FIRST%2C%20CASE%2C%20WHEN%2C%20THEN%2C%20ELSE%2C%20END%20.ipynb">9. Useful things to know - EXISTS, HAVING, LIMIT, SELECT TOP, FETCH FIRST, CASE, WHEN, THEN, ELSE, END</a>
 
 This workbook covers some useful functions like Case statements, the Having keyword, which is like a Where clause for Group By results and the exists keyword. Also some SQL best practices.
+
+<a href="https://github.com/PaullikeAI/SQL_101/blob/main/10.%20Altering%20Tables%20and%20Complex%20Table%20Relationships%20-%20ALTER%20TABLE%2C%20ADD%20COLUMN%2C%20DROP%20COLUMN%2C%20RENAME%20TO%2C%20RENAME%20COLUMN%2C%20ALTER%20COLUMN%2C%20SET%20NOT%20NULL%2C%20DROP%20NOT%20NULL%2C%20FOREIGN%20KEY.ipynb">10. Altering Tables and Complex Table Relationships - ALTER TABLE, ADD COLUMN, DROP COLUMN, RENAME TO, RENAME COLUMN, ALTER COLUMN, SET NOT NULL, DROP NOT NULL, FOREIGN KEY</a>
+
+This workbook covers ways to modify tables after creating them, and more complex relationships, such as use of foreign keys and many to many relationships.
+
+## Intermediate
+
+Views...
+
+## Data Cleaning
+
+These workbooks go through the functions used to clean data for use in either machine learning models or data analysis.
 
 
 **Enjoy and please suggest any improvements to the curriculum you can think of.**
