@@ -9,7 +9,7 @@ So please, let your journey into SQL database programming begin!
 
 This workbook covers the basics of querying data with examples for each of the keywords listed as well as the three diffent types of fetch functions used in SQLite and how to connect to a database.
 
-<a href="https://github.com/PaullikeAI/SQL_101/blob/main/2.%20More%20Querying%20Data%20-%20COUNT%2C%20DISTINCT%2C%20IN%2C%20NOT%2C%20GROUPBY%2C%20MAX%2C%20MIN%20SUM%2C%20AVG.ipynb">2. More Querying Data - COUNT, DISTINCT,IN, NOT, GROUP BY, MAX, MIN SUM, AVG</a>
+<a href="https://github.com/PaullikeAI/SQL_101/blob/main/2.%20More%20Querying%20Data%20-%20COUNT%2C%20DISTINCT%2C%20IN%2C%20NOT%2C%20GROUPBY%2C%20MAX%2C%20MIN%20SUM%2C%20AVG.ipynb">2. More Querying Data - COUNT, DISTINCT, IN, NOT, GROUP BY, MAX, MIN SUM, AVG</a>
 
 This workbook covers counting rows and unique values, grouping data and the in and not functions. Also finding the minimum, maximum, sum and average of columns or groups of data.
 
