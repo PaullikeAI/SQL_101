@@ -47,7 +47,9 @@ This workbook covers ways to modify tables after creating them, and more complex
 
 ## Intermediate
 
-Views...
+<a href="https://github.com/PaullikeAI/SQL_101/blob/main/11.%20Views%20and%20Subqueries%20-%20CREATE%20VIEW%2C%20DROP%20VIEW.ipynb">11. Views and Subqueries - CREATE VIEW, DROP VIEW</a>
+
+This workbook covers views, queries turned into objects for future and reference and subqueries which are queries within a query.
 
 ## Data Cleaning
 
