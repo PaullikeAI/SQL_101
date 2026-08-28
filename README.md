@@ -17,7 +17,7 @@ This workbook covers counting rows and unique values, grouping data and the in a
 
 This workbook covers the CRUD database staples. How to create data, read data, update that data and how to delete it.
 
-<a href="https://github.com/PaullikeAI/SQL_101/blob/main/4.%20More%20on%20Tables%20-%20PRIMARY%20KEY%2C%20AUTOINCREMENT%2C%20INT%2C%20INTEGER%2C%20BIGINT%2C%20CONSTRAINT%2C%20UNIQUE%2C%20VARCHAR%2C%20TIMESTAMP%2C%20DEFAULT%20CURRENT_TIMESTAMP.ipynb">4. More on Tables - PRIMARY KEY, AUTOINCREMENT, INT, INTEGER, BIGINT, CONSTRAINT, UNIQUE, VARCHAR, TIMESTAMP, DEFAULT CURRENT_TIMESTAMP</a>
+<a href="https://github.com/PaullikeAI/SQL_101/blob/main/4.%20More%20on%20Tables%20-%20PRIMARY%20KEY,%20AUTOINCREMENT,%20INT,%20INTEGER,%20BIGINT,%20CONSTRAINT,%20CHECK,%20UNIQUE,%20VARCHAR,%20TIMESTAMP,%20DEFAULT%20CURRENT_TIMESTAMP.ipynb">4. More on Tables - PRIMARY KEY, AUTOINCREMENT, INT, INTEGER, BIGINT, CONSTRAINT, CHECK, UNIQUE, VARCHAR, TIMESTAMP, DEFAULT CURRENT_TIMESTAMP</a>
 
 This workbook covers primary keys and why they are important along with a few more useful things to know when creating tables, including tracking the date and time a row was added.
 
